@@ -1,4 +1,4 @@
 html-test
 =========
 
-To view page to to: http://cdracars.github.io/html-test
+Github page is located at: http://cdracars.github.io/html-test
